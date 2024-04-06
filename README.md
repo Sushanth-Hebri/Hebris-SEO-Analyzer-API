@@ -31,7 +31,7 @@ Replace `<URL_TO_ANALYZE>` with the URL you want to analyze.
 http
 GET /?url=https://www.example.com HTTP/1.1
 Host: hebris-seo.onrender.com
- [response.png]
+![Screenshot 1](response.png)
  ### Response example
 {
     "SEO Elements Status": {
